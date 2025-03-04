@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5Cb9YiOFcI=",
+  "success": true,
+  "projectFilePath": "/Users/mishuga/Projects/EmployeeManagementSystemSolution/BaseLibrary/BaseLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/mishuga/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/mishuga/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

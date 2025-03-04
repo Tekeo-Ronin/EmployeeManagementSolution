@@ -1,0 +1,203 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Client
+build_property.RootNamespace = Client
+build_property.ProjectDir = /Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mishuga/Projects/EmployeeManagementSystemSolution/Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Layout/AuthenticationLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0F1dGhlbnRpY2F0aW9uTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/AccountPages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudFBhZ2VzL0xvZ2luUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/AccountPages/RegisterPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudFBhZ2VzL1JlZ2lzdGVyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/AuthenticationPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb25QYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/DepartmentPages/BranchDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0RlcGFydG1lbnRQYWdlcy9CcmFuY2hEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/DepartmentPages/BranchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0RlcGFydG1lbnRQYWdlcy9CcmFuY2hQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/DepartmentPages/DepartmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0RlcGFydG1lbnRQYWdlcy9EZXBhcnRtZW50RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/DepartmentPages/DepartmentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0RlcGFydG1lbnRQYWdlcy9EZXBhcnRtZW50UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/DepartmentPages/GeneralDepartmentDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0RlcGFydG1lbnRQYWdlcy9HZW5lcmFsRGVwYXJ0bWVudERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/DepartmentPages/GeneralDepartmentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0RlcGFydG1lbnRQYWdlcy9HZW5lcmFsRGVwYXJ0bWVudFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/EmployeePages/AddOrUpdateEmployeePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0VtcGxveWVlUGFnZXMvQWRkT3JVcGRhdGVFbXBsb3llZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/EmployeePages/EmployeeDetailPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0VtcGxveWVlUGFnZXMvRW1wbG95ZWVEZXRhaWxQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/EmployeePages/EmployeePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0VtcGxveWVlUGFnZXMvRW1wbG95ZWVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0hvbWVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/LocationPages/CityDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0xvY2F0aW9uUGFnZXMvQ2l0eURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/LocationPages/CityPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0xvY2F0aW9uUGFnZXMvQ2l0eVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/LocationPages/CountryDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0xvY2F0aW9uUGFnZXMvQ291bnRyeURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/LocationPages/CountryPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0xvY2F0aW9uUGFnZXMvQ291bnRyeVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/LocationPages/TownDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0xvY2F0aW9uUGFnZXMvVG93bkRpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/LocationPages/TownPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL0xvY2F0aW9uUGFnZXMvVG93blBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/ProfilePages/ProfilePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL1Byb2ZpbGVQYWdlcy9Qcm9maWxlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/UserPages/UserDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL1VzZXJQYWdlcy9Vc2VyRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/ContentPages/UserPages/UserPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGVudFBhZ2VzL1VzZXJQYWdlcy9Vc2VyUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/ButtonLoadingSpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9CdXR0b25Mb2FkaW5nU3Bpbm5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/ContextMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9Db250ZXh0TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/DoctorPages/DoctorDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9Eb2N0b3JQYWdlcy9Eb2N0b3JEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/DoctorPages/DoctorPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9Eb2N0b3JQYWdlcy9Eb2N0b3JQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/OvertimePages/OvertimeDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9PdmVydGltZVBhZ2VzL092ZXJ0aW1lRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/OvertimePages/OvertimePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9PdmVydGltZVBhZ2VzL092ZXJ0aW1lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/OvertimePages/OvertimeTypeDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9PdmVydGltZVBhZ2VzL092ZXJ0aW1lVHlwZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/OvertimePages/OvertimeTypePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9PdmVydGltZVBhZ2VzL092ZXJ0aW1lVHlwZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/ProfileDropDown.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9Qcm9maWxlRHJvcERvd24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/SanctionPages/SanctionDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9TYW5jdGlvblBhZ2VzL1NhbmN0aW9uRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/SanctionPages/SanctionPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9TYW5jdGlvblBhZ2VzL1NhbmN0aW9uUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/SanctionPages/SanctionTypeDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9TYW5jdGlvblBhZ2VzL1NhbmN0aW9uVHlwZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/SanctionPages/SanctionTypePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9TYW5jdGlvblBhZ2VzL1NhbmN0aW9uVHlwZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/TableBanner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9UYWJsZUJhbm5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/VacationPages/VacationDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9WYWNhdGlvblBhZ2VzL1ZhY2F0aW9uRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/VacationPages/VacationPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9WYWNhdGlvblBhZ2VzL1ZhY2F0aW9uUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/VacationPages/VacationTypeDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9WYWNhdGlvblBhZ2VzL1ZhY2F0aW9uVHlwZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Pages/OtherPages/VacationPages/VacationTypePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3RoZXJQYWdlcy9WYWNhdGlvblBhZ2VzL1ZhY2F0aW9uVHlwZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v8q5m4zhkd
+
+[/Users/mishuga/Projects/EmployeeManagementSystemSolution/Client/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d13n4iuesv
